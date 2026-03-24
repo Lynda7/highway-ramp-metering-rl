@@ -68,7 +68,7 @@ The repository is organized for modularity and high-performance execution:
    ```bash
    pip install -r requirements.txt
 
-### 3.  Usage
+3.  Usage
 To start the training process:
 ```bash
 python train.py
