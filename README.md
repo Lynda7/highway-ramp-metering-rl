@@ -69,7 +69,8 @@ The repository is organized for modularity and high-performance execution:
    pip install -r requirements.txt
 
 3.  Usage
-To start the training process:
 ```bash
+To start the training process:
+
 python train.py
 ```
